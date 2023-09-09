@@ -1,7 +1,7 @@
 //username - noamshaib, kochavap
-//id1      - 209277888
+//id1      - 
 //name1    - noam shaib
-//id2      - 208910117
+//id2      - 
 //name2    - kochava pavlov
 
 /**
